@@ -281,7 +281,7 @@ future_pred_df =pd.DataFrame({'date':[temp_date],'close':[pred_close]})
 
 
 future_pred_df
-
+print(temp_date, pred_close)
 
 # In[ ]:
 
